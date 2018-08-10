@@ -13,7 +13,7 @@ example 1: $>./filler_vm -f maps/map01 -p1 ../iosypenk.filler -p2 players/superj
 
 example 2: $>./filler_vm -f maps/map01 -p1 ../iosypenk.filler -p2 players/superjeannot.filler | ../vis
 
-##### Objectives
+## Objectives
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/iosypenk/lem-in/blob/master/lem-in-scrennshots/1.png" width="80%" />
