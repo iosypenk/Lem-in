@@ -21,6 +21,9 @@ If you want to visualise the results use :
 
 ### $> ./lem-in < maps/bigmap | ./vis
 
+During visualisation:
+    Left-click on mouse button is to move 1 ant.
+    Right-click - to start move all ants or stop them.
 
 
 ## Objectives
