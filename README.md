@@ -2,6 +2,8 @@
 
 ## Description
 The goal of this project is to find the quickest way to get n ants across the farm.
+
+
  
 ## Usage
 
@@ -15,16 +17,11 @@ To path the mapfile to the program use:
 
 ### $> ./lem-in < maps/bigmap
 
-if you want to visualise the results use :
+If you want to visualise the results use :
 
 ### $> ./lem-in < maps/bigmap | ./vis
 
 
--f path_to_map -p1 path_to_player -p2 path_to_player
-
-example 1: $>./filler_vm -f maps/map01 -p1 ../iosypenk.filler -p2 players/superjeannot.filler
-
-example 2: $>./filler_vm -f maps/map01 -p1 ../iosypenk.filler -p2 players/superjeannot.filler | ../vis
 
 ## Objectives
 
