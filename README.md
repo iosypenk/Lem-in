@@ -44,5 +44,5 @@ If you want to visualise the results use :
   <img src="https://github.com/iosypenk/lem-in/blob/master/lem-in-scrennshots/gif_map03.gif" width="48%" />
   <img src="https://github.com/iosypenk/lem-in/blob/master/lem-in-scrennshots/gif_map04.gif" width="48%" />
   <br/>
-  <img src="https://github.com/iosypenk/lem-in/blob/master/lem-in-scrennshots/gif_500rooms.gif" />
+  <img src="https://github.com/iosypenk/lem-in/blob/master/lem-in-scrennshots/gif_500rooms.gif"  width="80%" />
 </div>
