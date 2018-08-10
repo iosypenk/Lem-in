@@ -39,10 +39,10 @@ If you want to visualise the results use :
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/iosypenk/lem-in/blob/master/lem-in-scrennshots/gif_lem-in_output.gif" width="48%" />
-   <img src="https://github.com/iosypenk/lem-in/blob/master/lem-in-scrennshots/gif_bigmap.gif" width="55%" />
+   <img src="https://github.com/iosypenk/lem-in/blob/master/lem-in-scrennshots/gif_bigmap.gif" width="53%" />
   <br/>
   <img src="https://github.com/iosypenk/lem-in/blob/master/lem-in-scrennshots/gif_map03.gif" width="48%" />
-  <img src="https://github.com/iosypenk/lem-in/blob/master/lem-in-scrennshots/gif_map04.gif" width="55%" />
+  <img src="https://github.com/iosypenk/lem-in/blob/master/lem-in-scrennshots/gif_map04.gif" width="52%" />
   <br/>
   <img src="https://github.com/iosypenk/lem-in/blob/master/lem-in-scrennshots/gif_500rooms.gif"  width="100%" />
 </div>
